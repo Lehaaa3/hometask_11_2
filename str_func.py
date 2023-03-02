@@ -1,6 +1,6 @@
 def entitle(text):
     """
-    function return text with each letter in word capital
+    function return text with eachh letter in word capital
     :return: str
     """
     big_text = text.upper()
